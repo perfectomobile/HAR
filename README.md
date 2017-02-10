@@ -18,6 +18,11 @@ The HTTP Archive (HAR) format is a JSON document containing a set of network req
 For mobile apps, network efficiency is critical for stable, fast user experiences. Large transactions,
  location and analytics data, and other 3rd party API calls can quickly make the app suck.
 
+## Who is Perfecto
+
+Perfecto helps developers ship better apps faster by infusing fast and complete feedback loops into
+ your delivery pipelines. If you've ever thought "just let me code", that's what we're here to help you with.
+ For more info, visit our [site](https://www.perfectomobile.com/).
 
 ## Getting Started
 
@@ -36,3 +41,21 @@ A few ideas for example:
 
 - [yslow.org best practices and rules](http://yslow.org/)
 - [OWASP REST Security cheat sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+## If you get stuck or need help...
+
+Find the Perfecto table and look for some really friendly people. That's us.
+
+If you can't find us, contact [@paulsbruce](https://twitter.com/paulsbruce)
+
+We can help to:
+
+- clarify the challenge
+- act as a sounding board for your ideas
+
+What we can't help you with:
+
+- coding. that's your job. :)
+- coming up with the idea you'll use
+
+Good luck and be sure to pick up some schwag for participating!
