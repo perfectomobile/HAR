@@ -26,10 +26,16 @@ Perfecto helps developers ship better apps faster by infusing fast and complete 
 
 ## Getting Started
 
-There are already lots of tools around the HAR format.
+In this repo, there are a number of existing sample HAR file captures which you can use to test your creation.
+ We have purposely added these because they contain a few characterizing patterns, but also because we want
+ everyone to have equal opportunity to get right to solving the problem.
 
-The first thing you'll probably need is a HAR parser
- in your preferred programming language. For instance:
+Which brings us to how to use HAR files...there are already lots of tools around the HAR format.
+
+We don't want you to reinvent the wheel. We want you to create something new, something that hasn't been thought
+ up yet. So another HAR parser or validator won't make the cut.
+
+The first thing you'll probably need is a HAR parser in your preferred programming language. For instance:
 - [Java](https://github.com/sdstoehr/har-reader)
 - [Python](https://pypi.python.org/pypi/haralyzer/1.4.10)
 - [Ruby](https://github.com/jarib/har)
