@@ -11,6 +11,8 @@ Your challenge today is to build a reusable, standalone tool that accepts one or
 You can write in any language, framework, or platform you chose provided that the tools you used
  are either open source or free. That way others can benefit from your work too.
 
+AND DON'T FORGET TO REGISTER in with the [DevWeek accelerate.im portal](http://www.accelerate.im/challenges/113)
+
 ## What is HAR?
 
 The HTTP Archive (HAR) format is a JSON document containing a set of network requests.
